@@ -9,10 +9,6 @@ MongoDB for storing and managing the data and EJS for rendering the views and te
 ## Installation
 To run this application on your local machine, please follow these steps:
 
-Clone this repository using the following command:
-```
-$ git clone https://github.com/agentgrey/TodoList.git
-```
 Install the required dependencies using the following command:
 ```
 $ npm install 
